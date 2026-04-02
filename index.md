@@ -1,10 +1,4 @@
-# Yifan Li
 
-UX Researcher  
-
-I focus on user research, human-AI interaction, and data-informed design.
-
----
 
 ## Selected Work
 
