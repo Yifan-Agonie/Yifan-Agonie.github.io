@@ -1,4 +1,11 @@
+# 
 
+## About Me
+
+UX researcher with experience in qualitative research, usability testing, and insight synthesis.  
+I focus on human-AI interaction and data-informed design.
+
+---
 
 ## Selected Work
 
@@ -14,13 +21,7 @@
 
 ---
 
-## About Me  
+## Contact
 
-UX researcher with experience in qualitative research, usability testing, and insight synthesis.  
-
----
-
-## Contact  
-
-Email: Yifan.london@gmail.com 
-LinkedIn: https://www.linkedin.com/in/dr-yifan-li/?skipRedirect=true
+Email: yifan.london@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/dr-yifan-li/)
