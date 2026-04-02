@@ -25,3 +25,6 @@ I focus on human-AI interaction and data-informed design.
 
 Email: yifan.london@gmail.com  
 Linkedin： https://www.linkedin.com/in/dr-yifan-li/
+
+### Human-AI Interaction Study  
+[View Project →](./project1.html)
