@@ -28,5 +28,5 @@ UX researcher with experience in qualitative research, usability testing, and in
 
 ## Contact  
 
-Email: your@email.com  
-LinkedIn: your link
+Email: yifan.london@gmail.com
+LinkedIn: https://www.linkedin.com/in/dr-yifan-li/
