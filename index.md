@@ -1,30 +1,17 @@
- 
+# Dr. Yifan Li
 
-## About Me
-
-UX researcher with experience in qualitative research, usability testing, and insight synthesis.  
-I focus on human-AI interaction and data-informed design.
+UX Researcher specialising in Human-AI Interaction, behavioural insights, and data-driven design.
 
 ---
 
 ## Selected Work
 
-### Human-AI Interaction Study  
-- Conducted user interviews and usability testing  
-- Identified key friction points in AI-assisted workflows  
-- Delivered insights to improve user experience  
-
-### Data-Driven Design Project  
-- Combined qualitative and quantitative research  
-- Synthesised insights to inform product decisions  
-- Improved usability and engagement  
+- [Disaster Relief App](./project1/)
+- Human–AI Interaction Study (coming soon)
 
 ---
 
 ## Contact
 
-Email: yifan.london@gmail.com  
-Linkedin： https://www.linkedin.com/in/dr-yifan-li/
-
-### Human-AI Interaction Study  
-[View Project →](./project1.html)
+Email: yifan.london@gmail.com
+LinkedIn: https://www.linkedin.com/in/dr-yifan-li/
