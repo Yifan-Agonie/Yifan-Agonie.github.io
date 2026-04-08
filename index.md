@@ -17,7 +17,7 @@ Turning complex data into actionable insights that drive product strategy and im
 <p>
 Improving emergency user flows through research and redesign, focusing on reducing cognitive load and enabling faster access to support.
 </p>
-<p><a href="disaster.html">View Case Study →</a></p>
+<p><a href="project1"><strong>View Case Study →</strong></a></p>
 
 <h3>🎓 PhD Research (Human–AI Interaction)</h3>
 <p>
