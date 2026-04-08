@@ -1,31 +1,50 @@
-# Hi, I’m Yifan — UX Researcher (PhD, Human–AI Interaction)
+<h1>Hi, I’m Yifan — UX Researcher</h1>
+<p class="subtitle">Human–AI Interaction PhD</p>
 
-I specialise in behavioural insights and mixed-methods research, combining qualitative and quantitative approaches to understand user behaviour and decision-making.
+<p>
+Behavioural insights and mixed-methods researcher, combining qualitative and quantitative approaches to understand user behaviour.
+</p>
 
-I turn complex user and data insights into clear, actionable recommendations that drive product strategy and improve user experience.
+<p>
+Turning complex data into actionable insights that drive product strategy and improve user experience.
+</p>
 
+<hr>
 
----
+<h2>Selected Work</h2>
 
-## Selected Work
+<h3>🧠 Disaster Relief App</h3>
+<p>Improving emergency user flows through research and redesign.</p>
+<p><a href="#">View Case Study →</a></p>
 
-### 🧠 Disaster Relief App  
-Improving emergency user flows through research and redesign.  
-[View Case Study →](./project1/)
+<h3>🎓 PhD Research (Human–AI Interaction)</h3>
+<p>Simulation-based research on AI safety and decision-making.</p>
+<p><em>Case study available upon request</em></p>
 
-### 🤖 Human–AI Interaction Study  
-Simulation-based research on AI safety and decision-making.  
-*(Coming soon)*
+<h3>📁 Other Projects</h3>
+<p>A selection of additional UX research and design projects across different domains.</p>
+<p><a href="#">View More →</a></p>
 
----
+<hr>
 
-## About Me
+<h2>About Me</h2>
 
-I am a UX Researcher with 6+ years of experience across behavioural research, product design, and data-driven environments. My work focuses on bridging human behaviour and complex systems to support better product decisions.
+<p>
+UX Researcher with 6+ years of experience across behavioural research, product design, and data-driven environments.
+</p>
 
----
+<p>
+Focused on bridging human behaviour and complex systems to support better product decisions.
+</p>
 
-## Contact
+<hr>
 
-📧 Email: yifan.london@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/dr-yifan-li/)
+<h2>Contact</h2>
+
+<p>
+Open to UX Research opportunities and collaborations. Feel free to reach out.
+</p>
+
+<p>📧 Email: <a href="mailto:yifan.london@gmail.com">yifan.london@gmail.com</a></p>
+
+<p>💼 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">LinkedIn</a></p>
