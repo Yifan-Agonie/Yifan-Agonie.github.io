@@ -47,4 +47,4 @@ Open to UX Research opportunities and collaborations. Feel free to reach out.
 
 <p>📧 Email: <a href="mailto:yifan.london@gmail.com">yifan.london@gmail.com</a></p>
 
-<p>💼 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">LinkedIn</a></p>
+<p>💼 <a href="https://www.linkedin.com/in/dr-yifan-li/" target="_blank">LinkedIn</a></p>
